@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Supreme Court goes against public opinion in rulings on abortion, guns",
+      "datetime": "August 02, 2021 11:46:27 AM",
+      "body": "Until recently, the court hewed closely to shifting public views on key social issues like same-sex marriage, private sexual conduct, workplace protections for transgender people, and popular support for laws and executive orders on immigration and health care"
+    },
+    {
+      "id": 2,
+      "title": "Tear gas used to disperse protestors outside Arizona Capitol building, officials say",
+      "datetime": "August 02, 2021 11:46:27 AM",
+      "body": "After the Supreme Court overturned Roe v. Wade on Friday, holding that there is no longer a federal constitutional right to an abortion, protesters and supporters of the ruling gathered at the high court's building in Washington, DC, and in other cities nationwide."
+    },
+    {
+      "id": 3,
+      "title": "‘We’re done’: Chaos and tears as an abortion clinic abruptly shuts down",
+      "datetime": "June 25, 2022 11:59:05 AM",
+      "body": "The phones started ringing, as they always did, moments after Houston Women’s Reproductive Services opened for business at 9 a.m. on Friday — with patients in need of abortions calling to secure a spot on the schedule."
+    },
+    {
+      "id": 4,
+      "title": "Shooting at Oslo gay bar leaves at least two people dead ahead of Pride parade",
+      "datetime": "August 02, 2021 11:46:27 AM",
+      "body": "wo people were killed and eight others taken to hospital after a shooting at an LGBTQ bar in Oslo, Norway on Saturday, according to the city's police. The shooting took place at the London Pub, which describes itself on its website as 'the largest gay and lesbian venue in Oslo.'"
+    },
+    {
+      "id": 5,
+      "title": "Supreme Court goes against public opinion in rulings on abortion, guns",
+      "datetime": "August 02, 2021 11:46:27 AM",
+      "body": "Until recently, the court hewed closely to shifting public views on key social issues like same-sex marriage, private sexual conduct, workplace protections for transgender people, and popular support for laws and executive orders on immigration and health care"
+    },
+    {
+      "id": 6,
+      "title": "Tear gas used to disperse protestors outside Arizona Capitol building, officials say",
+      "datetime": "August 02, 2021 11:46:27 AM",
+      "body": "After the Supreme Court overturned Roe v. Wade on Friday, holding that there is no longer a federal constitutional right to an abortion, protesters and supporters of the ruling gathered at the high court's building in Washington, DC, and in other cities nationwide."
+    },
+    {
+      "id": 7,
+      "title": "‘We’re done’: Chaos and tears as an abortion clinic abruptly shuts down",
+      "datetime": "June 25, 2022 11:59:05 AM",
+      "body": "The phones started ringing, as they always did, moments after Houston Women’s Reproductive Services opened for business at 9 a.m. on Friday — with patients in need of abortions calling to secure a spot on the schedule."
+    }
+  ]
+}
